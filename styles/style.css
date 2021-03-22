@@ -1,0 +1,14 @@
+body {
+    background: lightsteelblue;
+    text-align: center;
+}
+h1 {
+    color: white;
+    font-weight: bold;
+    margin-top: 150px;
+}
+
+h3 {
+    color: wheat;
+    font-weight: bold;
+}
